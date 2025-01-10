@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.jumbotron{
+    padding: 2rem 1rem;
+    background-color: rgb(217, 237, 255);
+    border-radius: 8px;
+    border-width: 4px;
+    border-style: solid;
+    border-color: #001269;
+}
