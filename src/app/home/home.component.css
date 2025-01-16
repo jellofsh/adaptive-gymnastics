@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.jumbotron{
+    padding: 2rem 1rem;
+    /*background-color: rgb(217, 237, 255);*/
+    border-radius: 8px;
+    border-width: 4px;
+    border-style: solid;
+    border-color: #001269;
+    background-image: url("https://i.ibb.co/PTpBnpZ/Volunteer-Briefing.png");
+}
+
+.about-text{
+    padding: 1rem 1rem;
+    background-color: #fff7c2;
+    border-radius: 8px;
+    border-width: 4px;
+    border-style: solid;
+    border-color: #e4c601;
+    text-align: center;
+}
+
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: 50%;
+    border-radius: 6%;
+}
