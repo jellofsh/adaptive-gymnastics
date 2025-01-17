@@ -10,6 +10,7 @@ nav {
     padding: 10px 15px; /* padding around links */
     border-radius: 4px; /* slightly rounded corners */
     font-weight:bold;
+    font-size: 1.15em;
   }
 
   nav a:hover {
